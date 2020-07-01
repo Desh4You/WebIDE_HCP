@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@sap/xsenv": "^2.0.0",
+    "@sap/xsjs": "^5.2.0"
+  },
+  "description": "Sample Node Js Module ",
+
+  "files": [],
+  "main": "server.js",
+  "name": "tinynodeJs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node testrun.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "version": "1.0.0"
+}

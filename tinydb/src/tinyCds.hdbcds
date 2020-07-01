@@ -1,0 +1,9 @@
+namespace tinyWorld.tinydb;
+
+@OData.publish : true
+/*@@layout{"layoutInfo":{"x":4,"y":-7.5}}*/
+context tinyCds {
+entity world { 
+   key continent: String(100); 
+  }; 
+};
